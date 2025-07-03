@@ -1,0 +1,6 @@
+snowflake-connector-python[pandas]==3.6.0
+pandas==2.1.4
+pyarrow==18.0.0      # wheel exists for Python 3.10 / 3.11
+numpy>=1.24,<2       # optional, but good to keep >=1.24 for pandas 2.x
+python-dotenv
+streamlit

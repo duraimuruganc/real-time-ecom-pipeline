@@ -1,0 +1,29 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Local environment variables
+.env
+
+# Runtime data
+landing/
+
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+
+# Compiled extensions
+*.so
+
+# Jupyter and Streamlit checkpoints
+.ipynb_checkpoints/
+.streamlit/
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
