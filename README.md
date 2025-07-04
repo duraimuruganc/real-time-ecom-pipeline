@@ -33,17 +33,6 @@ real‑time‑ecom‑pipeline/
 └─ README.md
 ```
 
----
-
-## 💸 Cost Cheat‑Sheet
-
-| Item | Typical usage | $/month* |
-|------|---------------|----------|
-| Snowflake XS warehouse | 1 credit ≈ $2–$3, ~5 credits to demo | $10–$15 |
-| Snowflake storage      | < 50 MB | < $1 |
-| Streamlit, dbt Cloud   | Free tiers | $0 |
-
-\*All within the $400 Snowflake free trial.
 
 ---
 
